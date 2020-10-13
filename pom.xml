@@ -35,7 +35,7 @@
 			<!-- junit依赖项 -->
 			<groupId>junit</groupId>
 			<artifactId>junit</artifactId>
-			<version>3.8.1</version>
+			<version>4.13.1</version>
 			<scope>test</scope>
 		</dependency>
 		<!-- JSP标准标签库，否则报错无法识别标签 -->
